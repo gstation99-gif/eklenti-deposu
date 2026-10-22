@@ -1,8 +1,8 @@
 [
   {
-    "id": "tum-eklentiler",
+    "id": "eklentilerim",
     "name": "Tüm Eklenti Arşivim",
     "description": "Sunucudaki toplu eklenti paketi",
-    "downloadUrl": "https://github.com/gstation99-gif/eklenti-deposu/blob/main/eklentilerim.zip"
+    "downloadUrl": "https://github.com/gstation99-gif/eklenti-deposu/raw/main/eklentilerim.zip"
   }
 ]
